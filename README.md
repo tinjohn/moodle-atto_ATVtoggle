@@ -13,5 +13,5 @@ snippets for Poodll Snippet (https://moodle.org/plugins/atto_snippet)
 
 # known issues
 + adding h5p content via atto editor might hurt html structure for the current paragraph tag <p>
-+ inspect html structure and add <p> in front of the red </p> tag and add </p> to the open tag <p> before the h5p content <p><br></p><div>...</div>...  
++ inspect html structure and add p-tag in front of the red /p-tag and add /p-tag to the open tag p-tag in front of the h5p content   
   
