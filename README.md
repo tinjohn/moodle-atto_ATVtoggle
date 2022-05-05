@@ -5,7 +5,7 @@ snippets for Poodll Snippet (https://moodle.org/plugins/atto_snippet)
 # installation
 + put both .txt files into a snippet directory in your theme directory
 + add js files to your themes javascript directory
-+ add a new line of code to include the js files:
++ add a new line of code to yourthemes/config.php to include the js files:
 - To load the js files in your header:
 - $THEME->javascripts = array('hideAVT','invisibleAVT');
 - To load the js files in your footer:
